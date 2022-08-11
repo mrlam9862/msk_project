@@ -1,5 +1,5 @@
 # msk_project
-# 香港賽馬會,六合彩,開獎號,排程自動下載最新閞獎號.
+# 香港賽馬會,六合彩,開獎號,排程自動下載最新開獎號.
 Hong Kong Jockey Club Lottry 49 ball project game /Draw Number
 Marksix lottery ,Schedlue Download Lottoery Data.
 
